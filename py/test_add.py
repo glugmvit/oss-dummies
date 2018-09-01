@@ -1,6 +1,7 @@
-import add
+from add import *
 
-if add.foo(3, 2) == 5:
-    print("Looks good")
-else:
-    print("Something wrong")
+a = int(input('Enter a:'))
+
+b = int(input('Enter b:'))
+
+print(foo(a,b))
