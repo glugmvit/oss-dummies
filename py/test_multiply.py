@@ -1,6 +1,9 @@
 import multiply
 
-if multiply.foo(3, 2) == 6:
+a = int(input('Enter a:'))
+b = int(input('Enter b:'))
+
+if multiply.foo(a, b) == a * b:
     print("Looks good")
 else:
-    print("SomeThing Wrong")
+    print("Something Wrong")
