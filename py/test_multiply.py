@@ -1,4 +1,5 @@
-from multiply import *
+import multiply
+
 a = int(input('Enter a:'))
 b = int(input('Enter b:'))
 
