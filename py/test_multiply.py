@@ -1,6 +1,5 @@
-import multiply
+from multiply import *
+a = int(input('Enter a:'))
+b = int(input('Enter b:'))
 
-if multiply.foo(3, 2) == 6:
-    print("Looks good")
-else:
-    print("Som Ting Wong")
+print(foo(a,b))
