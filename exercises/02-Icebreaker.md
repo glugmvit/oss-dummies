@@ -26,11 +26,13 @@ My favorite quote is "With great power, comes great responsibility." - Uncle Ben
 
 Hello! My name is Harley Quinn.
 My favourite quote is "Why so serious?" - My pudding
-</pre>
-<pre>
+
+Hello ! 
+I'm Aditya
+My fav quote "Don have one" - Me
+
 Hello! My name is Aswin Gopinathan.
 Actually i dont have any favourite quote.
 
 Hello! I am Nikhil Joshi.
-
 </pre>
