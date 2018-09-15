@@ -1,7 +1,14 @@
-from add import *
+import add
 
-a = int(input('Enter a:'))
+def adder(x,y):
+    if add.foo(x,y) == (x+y):
+        print("Looks good")
+    else:
+        print("Something wrong")
 
-b = int(input('Enter b:'))
+def main():
+    x=int(input("Enter a number:\t"))
+    y=int(input("Enter another one:\t"))
+    adder(x,y)
 
-print(foo(a,b))
+main()
