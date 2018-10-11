@@ -34,4 +34,7 @@ Hello! My name is Aswin Gopinathan.
 Actually I dont have any favourite quote.
 
 Hello! I am Nikhil Joshi.
+
+Hello! My name is Bharath c s
+My favorite quote is "be happy always" -Me
 </pre>
