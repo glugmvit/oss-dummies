@@ -34,4 +34,7 @@ Hello! My name is Aswin Gopinathan.
 Actually I dont have any favourite quote.
 
 Hello! I am Nikhil Joshi.
+
+Hello! My name is Karthik.
+My favourite quote is "Never Give Up"
 </pre>
