@@ -33,8 +33,12 @@ My favourite quote is "Don have one" - Me
 Hello! My name is Aswin Gopinathan.
 Actually I dont have any favourite quote.
 
-Hello! I am Nikhil Joshi.
-
 Hello! My name is Karthik.
 My favourite quote is "Never Give Up"
+
+Hello! My name is Bharath c s
+My favorite quote is "be happy always" -Me
+
+Hello! My name is Nikhil Joshi.
+My favourite quote is "Have the courage to follow your heart and intuition. They somehow already know what you truly want to become." - Steve Jobs
 </pre>
