@@ -41,4 +41,7 @@ My favorite quote is "be happy always" -Me
 
 Hello! My name is Nikhil Joshi.
 My favourite quote is "Have the courage to follow your heart and intuition. They somehow already know what you truly want to become." - Steve Jobs
+
+Hello! My name is Neelakanta Gouda Patil.
+My favourite quote is "If you want to shine like a sun,first burn like a sun."
 </pre>
